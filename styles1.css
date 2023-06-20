@@ -1,0 +1,27 @@
+/* Header */
+header {
+    background-color: rgb(24, 180, 50);
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Navigation */S
+  nav {
+    background-color: rgb(143, 65, 5);
+    padding: 10px;
+  }
+  
+  /* Main content */
+  main {
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: pink;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
